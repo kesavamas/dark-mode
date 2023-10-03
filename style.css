@@ -19,6 +19,8 @@ body,html{
 .layer{
     position: fixed;
     pointer-events: none;
+    background: radial-gradient(circle at center,transparent 50px,black 60px,black);
+    touch-action: none;
     width: 100%;
     height: 100%;
 }
