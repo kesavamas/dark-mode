@@ -5,3 +5,8 @@
     width: max-content;
     margin: 0 auto;
 }
+.content{
+    font-family: sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+}
